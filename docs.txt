@@ -1,0 +1,64 @@
+Title: Group Tracker Application Design Document
+
+Introduction
+The Group Tracker application is a web-based tool designed to streamline collaboration and enhance communication within a group. By utilizing JavaScript, HTML, and CSS technologies, this application aims to provide a comprehensive solution for tracking group members, goals, responsibilities, and timeframes. The primary objective of the application is to facilitate efficient coordination and progress monitoring, leading to increased productivity and successful completion of group tasks.
+
+Features and Functionality
+
+2.1 User Management
+The application will allow the creation and management of user accounts, providing a secure environment for group members to access and contribute to the group's objectives. User authentication and authorization mechanisms will be implemented to ensure data privacy and control access levels based on user roles.
+        -we will have a sign up page that creates a user and 
+2.2 Group Creation and Management
+Users will be able to create and manage groups within the application. The group creator will have administrative privileges to add or remove members, assign roles, and define overall goals for the group.
+        - we will have a get req to show all the people in on a certain project 
+2.3 Group Member Tracking
+The application will enable the tracking of group members, including their contact information, roles within the group, and assigned tasks. Users will have access to a centralized dashboard that displays an overview of each member's progress, facilitating efficient coordination and collaboration.
+        - we will make a dashboard component that shows all the progress for each person in getting their part of the project done 
+2.4 Goal Setting and Timeframe Management
+Users will be able to define group goals and establish specific timeframes for each objective. The application will provide a user-friendly interface for creating, editing, and tracking goals. Group members will receive notifications and reminders as key deadlines approach, ensuring that everyone remains on track.
+    - we will make an interface for creating , updating, and deleting an objective 
+2.5 Task Assignment and Responsibility Allocation
+The application will support the assignment of tasks to specific group members. Users with administrative privileges will be able to allocate responsibilities and monitor the progress of each task. Clear task ownership will enhance accountability and transparency within the group.
+    - whoever proposes the objective has the authority to assign task to a specific user 
+2.6 Communication and Notifications
+To foster effective communication, the application will provide built-in messaging capabilities. Group members will be able to exchange messages, share updates, and seek clarifications within the platform. Automated notifications will be sent to relevant users when there are changes in task assignments, goal updates, or approaching deadlines.
+    - there will be a thread type board where memebers can leave messages for the group to read 
+
+    
+Technology Stack
+The Group Tracker application will be developed using the following technologies:
+Front-end:
+JavaScript: A powerful scripting language for dynamic client-side functionality.
+HTML: The standard markup language for structuring the application's web pages.
+CSS: Used for styling and layout to create an intuitive and visually appealing user interface.
+Development Timeline
+The development of the Group Tracker application will be divided into the following phases:
+4.1 Requirements Gathering and Analysis
+Duration: 1 week
+During this phase, the development team will gather detailed requirements from stakeholders, conduct a thorough analysis of the project scope, and define the application's functional and non-functional requirements.
+
+4.2 Design and UI/UX Development
+Duration: 2 weeks
+In this phase, the application's architecture, database schema, and user interface design will be created. The design will focus on providing an intuitive and seamless user experience.
+
+4.3 Backend Development
+Duration: 4 weeks
+During this phase, the back-end functionality, including user management, group creation, task assignment, and goal tracking, will be implemented using JavaScript.
+
+4.4 Front-end Development and Integration
+Duration: 3 weeks
+The front-end development phase will involve implementing the user interface using HTML and CSS, integrating it with the back-end functionality, and conducting extensive testing to ensure a smooth and error-free user experience.
+
+4.5 Testing and Quality Assurance
+Duration: 2 weeks
+The application will undergo comprehensive testing to identify and rectify any functional or usability issues. Quality assurance procedures will be employed to ensure the application meets the defined requirements.
+
+4.6 Deployment and Launch
+Duration: 1 week
+The application will be deployed to a production environment, and final checks will be performed before the official launch.
+
+Conclusion
+The Group Tracker application will revolutionize group collaboration by providing a centralized platform for tracking members, goals, responsibilities, and timeframes. Through its user-friendly interface and robust functionality, the application will enable seamless coordination, foster effective communication, and drive the successful completion of group objectives. By leveraging JavaScript, HTML, and CSS, the application will deliver a modern and intuitive user experience while maintaining data security and privacy.
+
+refrence 
+44941305

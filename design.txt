@@ -1,0 +1,18 @@
+the first page 
+-its a sign up or sign in 
+- then once signed up they are presented with a choice to start a new objective or continue with one of the existing.
+        - if they pick an existing objective then we go to the dashboard when its clicmed with the infor from this objective
+            - the dashboard will get infofromation from an object 
+                - in the dashboard we got track of how profitable the investment is by checking cost and revenue
+                -who all in on the project 
+                - any notes form the group 
+
+        - if a new objective is selectied then we take who  
+            -started the objective
+            -what task will be required
+            - who will do what 
+            - a log to track progress of objective and each memeber 
+- 
+
+
+    
